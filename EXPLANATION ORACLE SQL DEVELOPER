@@ -1,0 +1,66 @@
+Oracle Database es el DBMS  (Database Management System o Sistema de Gestión de Bases de Datos) .
+SQL Developer es una herramienta de desarrollo y administración que permite interactuar con el DBMS (Oracle Database) de una manera más amigable.
+
+
+
+
+-Diseño e Implementación de Base de Datos en DBMS con Oracle Database y SQL Developer
+
+
+
+
+1. Diseño de Modelo de Datos (DMD)
+Modelo Lógico: Definición de entidades, atributos y relaciones usando Oracle SQL Data Modeler.
+Modelo Relacional: Estructuración del modelo lógico en un modelo relacional, que incluye tablas y relaciones.
+2. Implementación en DBMS con Oracle Database
+
+
+
+
+-Lenguaje DDL (Data Definition Language):
+
+Comandos principales para definir la estructura de la base de datos:
+CREATE TABLE: Crear tablas en la base de datos.
+ALTER TABLE: Modificar la estructura de una tabla existente.
+DROP TABLE: Eliminar una tabla de la base de datos.
+CREATE INDEX: Crear un índice para optimizar consultas.
+
+
+
+
+3. Población de la Base de Datos
+
+Lenguaje DML (Data Manipulation Language):
+
+Comandos principales para manipular los datos dentro de las tablas:
+INSERT INTO: Insertar datos en una tabla.
+UPDATE: Actualizar datos en una tabla.
+DELETE FROM: Eliminar datos de una tabla.
+MERGE: Combinar datos de dos tablas.
+
+
+
+4. Consultas de Datos
+
+Lenguaje DQL (Data Query Language):
+
+Comandos principales para consultar o extraer datos de la base de datos:
+SELECT: Consultar datos de una o más tablas.
+WHERE: Filtrar resultados según criterios específicos.
+JOIN: Combinar datos de varias tablas.
+AGGREGATE FUNCTIONS: Realizar operaciones de agregación (SUM, AVG, COUNT, etc.).
+
+
+
+
+
+5. RESUMEN: Uso de Oracle SQL Developer y Oracle SQL Data Modeler
+
+Oracle SQL Data Modeler: Herramienta para diseñar los modelos lógico y relacional.
+Oracle SQL Developer: Herramienta para implementar el modelo relacional, ejecutar comandos DDL para crear y modificar tablas, realizar manipulación de datos con comandos DML, y ejecutar consultas DQL para extraer y analizar datos.
+
+
+
+
+
+
