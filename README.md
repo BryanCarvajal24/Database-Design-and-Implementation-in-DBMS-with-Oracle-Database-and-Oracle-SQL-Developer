@@ -4,7 +4,17 @@
 ## Descripción
 Database project in Oracle Database that includes logical and relational model design, implementation with DDL commands, data insertion using DML and data queries using DQL. Developed and managed in Oracle SQL Developer for efficient analysis and administration.
 
+1. Glockbuster Database
+2. Netflix Database
+
+   
 ## Archivos
+
+1. Glockbuster Database
+
+
+2. Netflix Database
+
 
 
 ## Autor
