@@ -28,7 +28,7 @@ Database project in Oracle Database that includes logical and relational model d
 
 
 ## Instalación
-Este proyecto no necesita de instalación adicional. Simplemente abre los archivos `.dmd` para ver los modelos y ejecuta los scripts `.sql` en Oracle SQL Developer para implementar las bases de datos.
+Este proyecto necesita de la instalación adicional de "Oracle SQL Developer". y posteriormente abre los archivos `.dmd` para ver los modelos y ejecuta los scripts `.sql` en Oracle SQL Developer para implementar las bases de datos.
 
 ## Contratación
 Si quieres contratarme puedes escribirme a brayanpapupro123@gmail.com para consultas.
